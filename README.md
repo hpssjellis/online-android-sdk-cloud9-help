@@ -10,6 +10,7 @@ The folders presently are:
 1. [basic-operation-and-installation](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version-1.0.0-android-sdk-help/basic-operation-and-installation)
    1. [a00-auto-ant-gradle-HELP.md](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version-1.0.0-android-sdk-help/basic-operation-and-installation/a00-auto-ant-gradle-HELP.md)
    1. [a01-create-ant-android-apk-HELP.md](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version-1.0.0-android-sdk-help/basic-operation-and-installation/a01-create-ant-android-apk-HELP.md)
+   1. [a02-create-gradle-android-apk-HELP.md](https://github.com/hpssjellis/online-android-sdk-cloud9-help/blob/master/version-1.0.0-android-sdk-help/basic-operation-and-installation/a02-create-gradle-android-apk-HELP)
    1. [a03-install-more-platforms-HELP.md](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version-1.0.0-android-sdk-help/basic-operation-and-installation/a03-install-more-platforms-HELP.md)
 
 
