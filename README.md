@@ -25,7 +25,6 @@ The folders presently are:
 1. [other](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version-1.0.0-android-sdk-help/other)
 
    1. [local-workspace.md](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version-1.0.0-android-sdk-help/other/local-workspace.md)
- 
    1. [release-version.md](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version-1.0.0-android-sdk-help/other/release-version.md)
 
 
