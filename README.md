@@ -1,4 +1,4 @@
-# online-android-sdk-cloud9-help
+# An Online Android SDK for Cloud 9 Help Repository
 A help repository for the online Android SDK hosted at Cloud9 http://c9.io
 
 
