@@ -39,3 +39,22 @@ echo ""
 echo "You may want to also check that the file local.properites looks correct for this workspace"
 echo "hit enter when those lines are OK"
 read
+
+
+
+
+
+
+echo "Look for your MainActivity.java file at  $MY_FOLDER_NAME/src/main/java/com/example/$MY_FOLDER_NAME"
+echo ""
+echo ""
+echo "right-click run index.html, then preview-preview running application to view webpage with the file .apk"
+echo "Or just click this link and open the web page"
+echo ""
+echo "IF YOU HAD AN ERROR, THE CORRECT PLATFORM MIGHT NOT BE INSTALLED. sudo bash a03-install-more-platforms.sh to correct it "
+echo "or change the build.gradle file line:"
+echo "    compileSdkVersion 20"
+echo "    buildToolsVersion 23.0.2"
+echo ""
+
+
