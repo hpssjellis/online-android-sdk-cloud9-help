@@ -42,5 +42,5 @@ Twitter [@rocksetta](https://twitter.com/rocksetta)
 
 HomePage [http://rocksetta.com](http://rocksetta.com)
 
-
+Use at your own risk!
 
