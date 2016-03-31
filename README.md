@@ -18,7 +18,7 @@ The folders presently are:
 
 
 1. [importing-from-github-and-android-studio](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version-1.0.0-android-sdk-help/importing-from-github-and-android-studio)
-       1. a05-clone-github-android-studio-project-HELP.md](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version-1.0.0-android-sdk-help/importing-from-github-and-android-studio/a05-clone-github-android-studio-project-HELP.md)
+       1. [a05-clone-github-android-studio-project-HELP.md](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version-1.0.0-android-sdk-help/importing-from-github-and-android-studio/a05-clone-github-android-studio-project-HELP.md)
        1. [a06-clone-github-ant-project-HELP.md](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version-1.0.0-android-sdk-help/importing-from-github-and-android-studio/a06-clone-github-ant-project-HELP.md)
 
 
