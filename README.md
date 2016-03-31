@@ -6,9 +6,9 @@ Version 1.0.0 installed April 2016 Help Information can be found at https://gith
 
 The folders are presently:
 
-1. basic-operation-and-installation
-1. importing-from-github-and-android-studio
-1. other
+1. [basic-operation-and-installation](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version.1.0.0-android-sdk-help/basic-operation-and-installation)
+1. [importing-from-github-and-android-studio](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version.1.0.0-android-sdk-help/importing-from-github-and-android-studio)
+1. [other](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version.1.0.0-android-sdk-help/other)
 
 
 
