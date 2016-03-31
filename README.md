@@ -7,14 +7,14 @@ Installed April 2016 Help Information can be found at https://github.com/hpssjel
 
 The folders presently are:
 
-1. [basic-operation-and-installation](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version.1.0.0-android-sdk-help/basic-operation-and-installation)
-1. [importing-from-github-and-android-studio](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version.1.0.0-android-sdk-help/importing-from-github-and-android-studio)
-1. [other](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version.1.0.0-android-sdk-help/other)
+1. [basic-operation-and-installation](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version-1.0.0-android-sdk-help/basic-operation-and-installation)
+1. [importing-from-github-and-android-studio](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version-1.0.0-android-sdk-help/importing-from-github-and-android-studio)
+1. [other](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version-1.0.0-android-sdk-help/other)
 
 
 ###Note: The free account on Cloud 9 should only be used for development since it is viewable by others. Use a premium account and make your folders private if you are going to output any Apps to the Android Play Store. 
 
-For more information see [Release-Version](https://github.com/hpssjellis/online-android-sdk-cloud9-help/blob/master/version.1.0.0-android-sdk-help/other/release-version.md)  
+For more information see [Release-Version](https://github.com/hpssjellis/online-android-sdk-cloud9-help/blob/master/version-1.0.0-android-sdk-help/other/release-version.md)  
 
 
 Thank you to Cloud9 for hosting this useful online Android SDK
