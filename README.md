@@ -36,10 +36,6 @@ The Help folders presently are:
 
 
 
-###Note: The free account on Cloud 9 should only be used for development since it is viewable by others. Use a premium account and make your folders private if you are going to output any Apps to the Android Play Store. 
-
-For more information see [Release-Version](https://github.com/hpssjellis/online-android-sdk-cloud9-help/blob/master/version-1.0.0-android-sdk-help/other/release-version.md)  
-
 
 Thank you to Cloud9 for hosting this useful online Android SDK
 
