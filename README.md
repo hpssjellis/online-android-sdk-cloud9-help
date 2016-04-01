@@ -5,7 +5,9 @@ A help repository for the online Android SDK hosted at Cloud9 http://c9.io
 #Android-sdk Version 1.0.0
 Installed April 2016 Help Information can be found at https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/version-1.0.0-android-sdk-help
 
-Live update for your workspace is at https://github.com/hpssjellis/online-android-sdk-cloud9-live-update and can be run by running the bash file a07-live-update-WARNING.sh in the start-here folder.
+Live update for your workspace will install additional files from the Github repository at  https://github.com/hpssjellis/online-android-sdk-cloud9-live-update 
+
+Live update can be installed by running the bash file a07-live-update-WARNING.sh in the start-here folder from your workspace.
 
 
 The Help folders presently are:
