@@ -1,4 +1,20 @@
 The workspace has a folder called advanced-local-install inside the start-here folder
+
+This folder is for installing a local version of Cloud9 to help test Dockerfiles before uploading them to Cloud9 for review and compilation. 
+
+The steps are:
+
+1. copy "on-your-computer.sh" file to a Docker capable computer (I copy and use sudo nano on-your-computer.sh then right click paste it)
+2. run  bash on-your-computer.sh (wait 15 minutes and about 7 Gigabytes)
+3. cd /home/ubuntu/start-here/advanced-local-install
+4. ls
+5. bash load-local.sh
+
+
+
+
+
+
 the main files are called
 
 1. 001-cloud9.conf	an apache2 site-available file set for port 8081 
