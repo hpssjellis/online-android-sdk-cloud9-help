@@ -9,13 +9,17 @@ The steps are:
 3. cd /home/ubuntu/start-here/advanced-local-install
 4. ls
 5. bash load-local.sh
+6. wait anouther 10 minutes and then look for the line (connect server listening at http://????:8080/ide.html)
+7. click the left hand window settings wheel to (show home in favorites) to see your workspace folders
+7. open another broswer and use the same url but with http://????:8081 to open apache2
 
 
 
 
 
 
-the main files are called
+
+the main files in this folder are called
 
 1. 001-cloud9.conf	an apache2 site-available file set for port 8081 
 
