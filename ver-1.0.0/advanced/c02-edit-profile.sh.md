@@ -13,7 +13,14 @@ sudo nano ~/.profile
 and to exit you must ctrl-X and the y
 
 
-Any command here will run every time a terminal is opnned.
+Any command here will run every time a terminal is opened.
+
+An example of a command you may want to put at the bottom of the file is
+
+
+export INDEXFILE=/home/ubuntu/workspace/index.html
+
+changed for a new location to the index.html file or to change the name of the file. This file is auto-updated with your Android Apps .apk file.
 
 
 
