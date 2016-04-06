@@ -26,7 +26,7 @@ The Help folders presently are:
 1. [local-cloud9-installation](https://github.com/hpssjellis/online-android-sdk-cloud9-help/tree/master/ver-1.0.0/advanced/local-cloud9-install)
 
 
-If you don't have an Android device to run your .apk's you might try installing it on these emulators [Appetize.io](https://appetize.io/), which is online and [7 Android Emulator Reviews](https://www.wondershare.com/mirror-emulator/free-and-online-android-emulators.html) Reviews about emulators to install on your computer.
+If you don't have an Android device to run your created .apk's you might try installing them on these emulators [Appetize.io](https://appetize.io/), which is online and [7 Android Emulator Reviews](https://www.wondershare.com/mirror-emulator/free-and-online-android-emulators.html) Reviews about emulators to install on your computer.
 
 Thank you to Cloud9 for hosting this useful online Android SDK
 
