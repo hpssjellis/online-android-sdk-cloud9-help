@@ -10,3 +10,11 @@
  "target=android-20"
  "Hit enter when ready to continue"
 
+
+
+
+
+local.properties files needs this line only
+
+sdk.dir=/usr/local/android-sdk-linux
+
